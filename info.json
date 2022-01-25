@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 964.5920999999995,
+    "videos": [
         "Stray Cats - Little Miss Prissy-PezixVFIql0.mp4",
         "Jeanie Jeanie Jeanie-8lbupJntm-Q.mp4",
         "Los Cadetes de Linares - Nave 727-2YiG8doOBLk.mp4",
@@ -104,7 +105,5 @@
         "The Residents - Phantom-k4t1OqW6cUo.mp4",
         "Cetu Javu - A Donde - 1990-ntp8BxuH2eI.mp4",
         "Corazon contento - Salon victoria-bavyKnNrTBU.mp4"
-    ],
-    "id": "v1",
-    "total_size": 919.9063662109376
+    ]
 }
